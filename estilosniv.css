@@ -1,10 +1,10 @@
-.vidas{
+.caja2{
     width: 50px;
     height: 25px;
     border: 20px black;
     background-color: blue
 }
-.puntaje{
+.caja3{
     width: 50px;
     height: 25px;
     border: 20px black;
@@ -15,7 +15,7 @@
     left: 125px;
     top: 7px;
 }
-.tiempo{
+.caja4{
     width: 50px;
     height: 25px;
     border: 20px black;
