@@ -1,39 +1,46 @@
-.caja2{
+body{
+    align-items: center;
+}
+.vidas{
     width: 50px;
     height: 25px;
     border: 20px black;
     background-color: blue
 }
-.caja3{
+.puntaje{
     width: 50px;
     height: 25px;
     border: 20px black;
     background-color: orange;
 }
-.caja3{
+.puntaje{
     position: absolute;
     left: 125px;
     top: 7px;
 }
-.caja4{
+.tiempo{
     width: 50px;
     height: 25px;
     border: 20px black;
     background-color: green;
     position: absolute;
 }
-.caja4{
+.tiempo{
     position: absolute;
     left: 237px;
     top: 7px;
 }
-.caja5{
-    width: 1280px;
+.suelo{
+    width: 1290px;
     height: 95px;
     border: 20px black;
     background-color: brown;
 }
-.caja5{
+.suelo{
     position: absolute;
     top: 550px;
+}
+.caja6{
+    align-items: left;
+
 }
