@@ -7,6 +7,11 @@ body{
     border: 20px black;
     background-color: blue
 }
+.vidas{
+    position: absolute;
+    background-position-x: 0px;
+    z-index: 2;
+}
 .puntaje{
     width: 50px;
     height: 25px;
@@ -42,5 +47,26 @@ body{
 }
 .caja6{
     align-items: left;
+    width: 84px;
+    height: 84px;
+
+    position: absolute;
+    bottom: 22px;
+    left: 42px;
+    z-index: 2;
+
+    background: url(css/css/pngwing.com.png) repeat-x 0px 0px;
+    background-size: 30px 42px;
+    background-position-x: 800px;
+}
+.caja7{
+    width: 84px;
+    height: 84px;
+
+    position: absolute;
+    bottom: 22px;
+    right: 600px;
+    z-index: 2;
+
 
 }
