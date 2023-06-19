@@ -1,0 +1,39 @@
+.vidas{
+    width: 50px;
+    height: 25px;
+    border: 20px black;
+    background-color: blue
+}
+.puntaje{
+    width: 50px;
+    height: 25px;
+    border: 20px black;
+    background-color: orange;
+}
+.caja3{
+    position: absolute;
+    left: 125px;
+    top: 7px;
+}
+.tiempo{
+    width: 50px;
+    height: 25px;
+    border: 20px black;
+    background-color: green;
+    position: absolute;
+}
+.caja4{
+    position: absolute;
+    left: 237px;
+    top: 7px;
+}
+.caja5{
+    width: 1280px;
+    height: 95px;
+    border: 20px black;
+    background-color: brown;
+}
+.caja5{
+    position: absolute;
+    top: 550px;
+}
